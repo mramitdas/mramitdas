@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently into **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mramitdas](https://github.com/mramitdas)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mramitdas)
 
 - 💬 Ask me about **Python**
 
