@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mramitdas)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python Development**
 
 - 📫 How to reach me **mramitdas99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qVI6-cp98KMH1CAXNY82BXeII-lyoqqf/view?usp=sharing](https://drive.google.com/file/d/1qVI6-cp98KMH1CAXNY82BXeII-lyoqqf/view?usp=sharing)
+- 📄 Checkout my past experiences [Here](https://drive.google.com/file/d/1qVI6-cp98KMH1CAXNY82BXeII-lyoqqf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
