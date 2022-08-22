@@ -1,3 +1,6 @@
+<!-- ![MasterHead](https://lh3.googleusercontent.com/YGcrPx41r7l7W6dSdXdKIq-Q1wc8NIEGTa8JBVMa9EIoTmP-IOzeagSMU7htVdhbmezEdUOxDPykx4AzcKzoZjskvLp0eWkDVDEb3dKXenfmbEZjO2FbvdQhTF3zOuqzS4Yk6mK5Tw=w2400) -->
+
+
 <h1 align="center">Hi 👋, I'm Amit Das</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
