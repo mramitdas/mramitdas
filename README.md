@@ -1,8 +1,13 @@
 <!-- ![MasterHead](https://lh3.googleusercontent.com/YGcrPx41r7l7W6dSdXdKIq-Q1wc8NIEGTa8JBVMa9EIoTmP-IOzeagSMU7htVdhbmezEdUOxDPykx4AzcKzoZjskvLp0eWkDVDEb3dKXenfmbEZjO2FbvdQhTF3zOuqzS4Yk6mK5Tw=w2400) -->
 
+<p style="color: red; font-family: 'Fira Code'; font-weight: 400; font-size: 44px; text-align: center; text-decoration: none;">Amit Das</p>
 
-<h1 align="center">Hi 👋, I'm Amit Das</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=440&height=45&lines=Full+Stack+Developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learining+new+things" alt="Typing SVG" />
+  </a>
+</p>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <!-- <a href="https://app.daily.dev/mramitdas"><img align="right" src="https://api.daily.dev/devcards/52c0ed360b0d44a1a64f4044d11dae74.png?r=reg" width="350" alt="Amit Das's Dev Card"/></a> -->
