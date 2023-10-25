@@ -8,6 +8,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=440&height=45&lines=Full+Stack+Developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learining+new+things" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
+</p>
+
+
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <!-- <a href="https://app.daily.dev/mramitdas"><img align="right" src="https://api.daily.dev/devcards/52c0ed360b0d44a1a64f4044d11dae74.png?r=reg" width="350" alt="Amit Das's Dev Card"/></a> -->
