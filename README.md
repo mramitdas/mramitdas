@@ -94,3 +94,9 @@ me.say_hi()
 </details>
 
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@mramitdas"><img src="https://holopin.me/mramitdas" alt="mramitdas Holopin board"></a></p>
+</details>
+
