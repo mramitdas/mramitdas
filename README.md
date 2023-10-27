@@ -55,6 +55,26 @@ me.say_hi()
 
 ```
 
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Areact"><img alt="React" src="https://img.shields.io/badge/-React-512BD4?style=flat-square&logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3ANodeJs"><img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ajavascript"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Aandroid"><img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ahtml"><img alt="Html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Acss"><img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac"><img alt="C" src="https://img.shields.io/badge/-C prog.-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac#"><img alt="C#" src="https://img.shields.io/badge/-C++-512BD4?style=flat-square&logo=C&logoColor=white"></a>
+  </p>
+
+</details>
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
