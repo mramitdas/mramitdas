@@ -93,6 +93,18 @@ me.say_hi()
     <a href="#"><img  alt="Notion"  src="https://img.shields.io/badge/Notion-010101.svg?style=flat-square&logo=notion&logoColor=white"></a>
   </p>
 
+  <h3> Design and Tools</h3>
+  <p>
+    <a href="#"><img alt="adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"></a>
+    <a href="#"><img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"></a>
+    <a href="#"><img alt="after effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"></a>
+    <a href="#"><img alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+    <a href="#"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"></a>
+    <a href="#"><img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"></a>
+    <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
+  </p>
+
 </details>
 
 <details> 
