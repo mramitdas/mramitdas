@@ -77,6 +77,35 @@ me.say_hi()
     <a href="https://github.com/search?q=user%3Amramitdas+language%3Ashellscript"><img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   </p>
 
+  <h3>📚 Frameworks, Platforms and Libraries</h3>
+  <p>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+      <a href="#"><img alt="Django Rest Framework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="react native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+      <a href="#"><img alt="anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+      <a href="#"><img alt="jinja" src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"></a>
+      <a href="#"><img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+      <a href="#"><img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
+      <a href="#"><img alt="open cv" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
+      <a href="#"><img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?style=for-the-badge&logo=dpy"></a>
+      <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?style=for-the-badge&logo=sympy&logoColor=white"></a>
+      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
+      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
+  </p>
+  
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
     <a href="#"><img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
@@ -104,6 +133,7 @@ me.say_hi()
     <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
     <a href="#"><img alt="Mercurial" src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white"></a>
   </p>
+
 
   <h3>🖌️ Design and Tools</h3>
   <p>
