@@ -61,48 +61,51 @@ me.say_hi()
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Areact"><img alt="React" src="https://img.shields.io/badge/-React-512BD4?style=flat-square&logo=react&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3ANodeJs"><img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ajavascript"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Aandroid"><img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ahtml"><img alt="Html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Acss"><img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac"><img alt="C" src="https://img.shields.io/badge/-C prog.-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac#"><img alt="C#" src="https://img.shields.io/badge/-C++-512BD4?style=flat-square&logo=C&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Areact"><img alt="React" src="https://img.shields.io/badge/-React-512BD4?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3ANodeJs"><img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ajavascript"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Aandroid"><img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ahtml"><img alt="Html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Acss"><img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac"><img alt="C" src="https://img.shields.io/badge/-C prog.-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Alatex"><img alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Amarkdown"><img alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Ashellscript"><img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-    <a href="#"><img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
-    <a href="#"><img  alt="PostgreSQL"  src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img  alt="Oracle"  src ="https://img.shields.io/badge/Oracle-F00000.svg?style=flat-square&logo=oracle&logoColor=white"></a>
-    <a href="#"><img  alt="MySQL"  src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
-    <a href="#"><img  alt="SQLite"  src ="https://img.shields.io/badge/SQLite-07405e.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img  alt="Firebase"  src ="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img  alt="Redis"  src =https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white></a>
-    <a href="#"><img  alt="Aws" src="https://img.shields.io/badge/Aws-232F3E.svg?style=flat-square&logo=github&logoColor=white"></a>
-    <a href="#"><img  alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat-square&logo=github&logoColor=white"></a>
-    <a href="#"><img  alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white"></a>
-    <a href="#"><img  alt="Render"  src="https://img.shields.io/badge/Render-00979D.svg?style=flat-square&logo=render&logoColor=white"></a>
-    <a href="#"><img  alt="Repl.it"  src="https://img.shields.io/badge/Repl.it-0D101E.svg?style=flat-square&logo=Replit&logoColor=white"></a>
-    <a href="#"><img  alt="Vercel"  src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
-    <a href="#"><img  alt="Railway"  src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=flat-square&logo=render&logoColor=white"></a>
-    <a href="#"><img  alt="Notion"  src="https://img.shields.io/badge/Notion-010101.svg?style=flat-square&logo=notion&logoColor=white"></a>
+    <a href="#"><img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img  alt="PostgreSQL"  src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img  alt="Oracle"  src ="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img  alt="MySQL"  src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img  alt="SQLite"  src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img  alt="Firebase"  src ="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img  alt="Redis"  src =https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white></a>
+    <a href="#"><img  alt="Aws" src="https://img.shields.io/badge/Aws-232F3E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img  alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img  alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+    <a href="#"><img  alt="Render"  src="https://img.shields.io/badge/Render-00979D.svg?style=for-the-badge&logo=render&logoColor=white"></a>
+    <a href="#"><img  alt="Repl.it"  src="https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=Replit&logoColor=white"></a>
+    <a href="#"><img  alt="Vercel"  src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="#"><img  alt="Railway"  src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=render&logoColor=white"></a>
+    <a href="#"><img  alt="Notion"  src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
   </p>
 
-  <h3> Design and Tools</h3>
+  <h3>🖌️ Design and Tools</h3>
   <p>
-    <a href="#"><img alt="adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"></a>
-    <a href="#"><img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"></a>
-    <a href="#"><img alt="after effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"></a>
-    <a href="#"><img alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6"></a>
-    <a href="#"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"></a>
-    <a href="#"><img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"></a>
-    <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
+    <a href="#"><img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+    <a href="#"><img alt="after effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
+    <a href="#"><img alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+    <a href="#"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+    <a href="#"><img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+    <a href="#"><img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
   </p>
 
 </details>
