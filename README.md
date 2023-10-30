@@ -55,7 +55,7 @@ me.say_hi()
 
 ```
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -105,7 +105,7 @@ me.say_hi()
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
   </p>
-  
+
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
     <a href="#"><img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
