@@ -74,6 +74,25 @@ me.say_hi()
     <a href="https://github.com/search?q=user%3Amramitdas+language%3Ac#"><img alt="C#" src="https://img.shields.io/badge/-C++-512BD4?style=flat-square&logo=C&logoColor=white"></a>
   </p>
 
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <p>
+    <a href="#"><img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img  alt="PostgreSQL"  src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img  alt="Oracle"  src ="https://img.shields.io/badge/Oracle-F00000.svg?style=flat-square&logo=oracle&logoColor=white"></a>
+    <a href="#"><img  alt="MySQL"  src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
+    <a href="#"><img  alt="SQLite"  src ="https://img.shields.io/badge/SQLite-07405e.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img  alt="Firebase"  src ="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img  alt="Redis"  src =https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white></a>
+    <a href="#"><img  alt="Aws" src="https://img.shields.io/badge/Aws-232F3E.svg?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="#"><img  alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="#"><img  alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white"></a>
+    <a href="#"><img  alt="Render"  src="https://img.shields.io/badge/Render-00979D.svg?style=flat-square&logo=render&logoColor=white"></a>
+    <a href="#"><img  alt="Repl.it"  src="https://img.shields.io/badge/Repl.it-0D101E.svg?style=flat-square&logo=Replit&logoColor=white"></a>
+    <a href="#"><img  alt="Vercel"  src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
+    <a href="#"><img  alt="Railway"  src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=flat-square&logo=render&logoColor=white"></a>
+    <a href="#"><img  alt="Notion"  src="https://img.shields.io/badge/Notion-010101.svg?style=flat-square&logo=notion&logoColor=white"></a>
+  </p>
+
 </details>
 
 <details> 
@@ -103,11 +122,11 @@ me.say_hi()
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-<!-- 1. 🎉 Merged PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-<!-- 2. 💪 Opened PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-<!-- 3. 🎉 Merged PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-<!-- 4. 💪 Opened PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-<!-- 5. 🎉 Merged PR [#1010](https://github.com/DenverCoder1/custom-icon-badges/pull/1010) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) -->
+  <!-- 1. 🎉 Merged PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
+  <!-- 2. 💪 Opened PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
+  <!-- 3. 🎉 Merged PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
+  <!-- 4. 💪 Opened PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
+  <!-- 5. 🎉 Merged PR [#1010](https://github.com/DenverCoder1/custom-icon-badges/pull/1010) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) -->
 <!-- END_SECTION:activity-->
 
 
