@@ -96,7 +96,6 @@ me.say_hi()
       <a href="#"><img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?style=for-the-badge&logo=dpy"></a>
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?style=for-the-badge&logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
