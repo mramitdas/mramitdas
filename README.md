@@ -170,18 +170,10 @@ me.say_hi()
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Amit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mramitdas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <!-- <h3>⚡ Recent GitHub Activity</h3> -->
+  <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-
-  <!-- 1. 🎉 Merged PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-  <!-- 2. 💪 Opened PR [#70](https://github.com/torahcalc/torahcalc/pull/70) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-  <!-- 3. 🎉 Merged PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-  <!-- 4. 💪 Opened PR [#69](https://github.com/torahcalc/torahcalc/pull/69) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc) -->
-  <!-- 5. 🎉 Merged PR [#1010](https://github.com/DenverCoder1/custom-icon-badges/pull/1010) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) -->
-<!-- END_SECTION:activity-->
-
 
 </details>
 
