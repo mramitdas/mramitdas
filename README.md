@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/mramitdas/RapidNotifyBot/issues/45) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-2. 🎉 Merged PR [#46](https://github.com/mramitdas/RapidNotifyBot/pull/46) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-3. 💪 Opened PR [#46](https://github.com/mramitdas/RapidNotifyBot/pull/46) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-4. ❗ Opened issue [#45](https://github.com/mramitdas/RapidNotifyBot/issues/45) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-5. 🔒 Closed issue [#43](https://github.com/mramitdas/RapidNotifyBot/issues/43) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-6. 🎉 Merged PR [#44](https://github.com/mramitdas/RapidNotifyBot/pull/44) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-7. 💪 Opened PR [#44](https://github.com/mramitdas/RapidNotifyBot/pull/44) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-8. ❗ Opened issue [#43](https://github.com/mramitdas/RapidNotifyBot/issues/43) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-9. 🔒 Closed issue [#23](https://github.com/mramitdas/RapidNotifyBot/issues/23) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-10. 🎉 Merged PR [#42](https://github.com/mramitdas/RapidNotifyBot/pull/42) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+1. ❗ Opened issue [#49](https://github.com/mramitdas/RapidNotifyBot/issues/49) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+2. 🔒 Closed issue [#47](https://github.com/mramitdas/RapidNotifyBot/issues/47) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+3. 🎉 Merged PR [#48](https://github.com/mramitdas/RapidNotifyBot/pull/48) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+4. 💪 Opened PR [#48](https://github.com/mramitdas/RapidNotifyBot/pull/48) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+5. ❗ Opened issue [#47](https://github.com/mramitdas/RapidNotifyBot/issues/47) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+6. 🔒 Closed issue [#45](https://github.com/mramitdas/RapidNotifyBot/issues/45) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+7. 🎉 Merged PR [#46](https://github.com/mramitdas/RapidNotifyBot/pull/46) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+8. 💪 Opened PR [#46](https://github.com/mramitdas/RapidNotifyBot/pull/46) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+9. ❗ Opened issue [#45](https://github.com/mramitdas/RapidNotifyBot/issues/45) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+10. 🔒 Closed issue [#43](https://github.com/mramitdas/RapidNotifyBot/issues/43) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
 <!--END_SECTION:activity-->
 
 </details>
