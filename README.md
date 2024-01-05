@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/mramitdas/WazirxTrader/issues/8) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-2. 🎉 Merged PR [#9](https://github.com/mramitdas/WazirxTrader/pull/9) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-3. 💪 Opened PR [#9](https://github.com/mramitdas/WazirxTrader/pull/9) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-4. 🗣 Commented on [#8](https://github.com/mramitdas/WazirxTrader/issues/8#issuecomment-1879187257) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-5. ❗ Opened issue [#8](https://github.com/mramitdas/WazirxTrader/issues/8) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-6. 🔒 Closed issue [#6](https://github.com/mramitdas/WazirxTrader/issues/6) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-7. 🎉 Merged PR [#7](https://github.com/mramitdas/WazirxTrader/pull/7) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-8. 💪 Opened PR [#7](https://github.com/mramitdas/WazirxTrader/pull/7) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-9. ❗ Opened issue [#6](https://github.com/mramitdas/WazirxTrader/issues/6) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-10. 🔒 Closed issue [#4](https://github.com/mramitdas/WazirxTrader/issues/4) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+1. ❗ Opened issue [#10](https://github.com/mramitdas/WazirxTrader/issues/10) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+2. 🔒 Closed issue [#8](https://github.com/mramitdas/WazirxTrader/issues/8) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+3. 🎉 Merged PR [#9](https://github.com/mramitdas/WazirxTrader/pull/9) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+4. 💪 Opened PR [#9](https://github.com/mramitdas/WazirxTrader/pull/9) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+5. 🗣 Commented on [#8](https://github.com/mramitdas/WazirxTrader/issues/8#issuecomment-1879187257) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+6. ❗ Opened issue [#8](https://github.com/mramitdas/WazirxTrader/issues/8) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+7. 🔒 Closed issue [#6](https://github.com/mramitdas/WazirxTrader/issues/6) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+8. 🎉 Merged PR [#7](https://github.com/mramitdas/WazirxTrader/pull/7) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+9. 💪 Opened PR [#7](https://github.com/mramitdas/WazirxTrader/pull/7) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+10. ❗ Opened issue [#6](https://github.com/mramitdas/WazirxTrader/issues/6) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
 <!--END_SECTION:activity-->
 
 </details>
