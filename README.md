@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/mramitdas/RapidNotifyBot/issues/90) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-2. ❗ Opened issue [#89](https://github.com/mramitdas/RapidNotifyBot/issues/89) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-3. ❗ Opened issue [#88](https://github.com/mramitdas/RapidNotifyBot/issues/88) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-4. ❗ Opened issue [#87](https://github.com/mramitdas/RapidNotifyBot/issues/87) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
-5. 🔒 Closed issue [#13](https://github.com/mramitdas/WazirxTrader/issues/13) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-6. 🎉 Merged PR [#14](https://github.com/mramitdas/WazirxTrader/pull/14) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-7. 💪 Opened PR [#14](https://github.com/mramitdas/WazirxTrader/pull/14) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-8. ❗ Opened issue [#13](https://github.com/mramitdas/WazirxTrader/issues/13) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-9. 🎉 Merged PR [#12](https://github.com/mramitdas/WazirxTrader/pull/12) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
-10. 🔒 Closed issue [#10](https://github.com/mramitdas/WazirxTrader/issues/10) in [mramitdas/WazirxTrader](https://github.com/mramitdas/WazirxTrader)
+1. ❗ Opened issue [#3](https://github.com/mramitdas/CookiePyStarter/issues/3) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+2. 🗣 Commented on [#2](https://github.com/mramitdas/CookiePyStarter/issues/2#issuecomment-1879670842) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+3. 🔒 Closed issue [#2](https://github.com/mramitdas/CookiePyStarter/issues/2) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+4. ❗ Opened issue [#2](https://github.com/mramitdas/CookiePyStarter/issues/2) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+5. 🗣 Commented on [#1](https://github.com/mramitdas/CookiePyStarter/issues/1#issuecomment-1879669927) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+6. 🔒 Closed issue [#1](https://github.com/mramitdas/CookiePyStarter/issues/1) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+7. ❗ Opened issue [#1](https://github.com/mramitdas/CookiePyStarter/issues/1) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+8. ❗ Opened issue [#90](https://github.com/mramitdas/RapidNotifyBot/issues/90) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+9. ❗ Opened issue [#89](https://github.com/mramitdas/RapidNotifyBot/issues/89) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
+10. ❗ Opened issue [#88](https://github.com/mramitdas/RapidNotifyBot/issues/88) in [mramitdas/RapidNotifyBot](https://github.com/mramitdas/RapidNotifyBot)
 <!--END_SECTION:activity-->
 
 </details>
