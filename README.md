@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#59](https://github.com/mramitdas/CookiePyStarter/issues/59) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-2. 🎉 Merged PR [#60](https://github.com/mramitdas/CookiePyStarter/pull/60) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-3. 💪 Opened PR [#60](https://github.com/mramitdas/CookiePyStarter/pull/60) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-4. ❗ Opened issue [#59](https://github.com/mramitdas/CookiePyStarter/issues/59) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-5. 🔒 Closed issue [#57](https://github.com/mramitdas/CookiePyStarter/issues/57) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-6. 🎉 Merged PR [#58](https://github.com/mramitdas/CookiePyStarter/pull/58) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-7. 💪 Opened PR [#58](https://github.com/mramitdas/CookiePyStarter/pull/58) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-8. ❗ Opened issue [#57](https://github.com/mramitdas/CookiePyStarter/issues/57) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-9. 🔒 Closed issue [#55](https://github.com/mramitdas/CookiePyStarter/issues/55) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-10. 🎉 Merged PR [#56](https://github.com/mramitdas/CookiePyStarter/pull/56) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+1. 🔒 Closed issue [#63](https://github.com/mramitdas/CookiePyStarter/issues/63) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+2. 🎉 Merged PR [#64](https://github.com/mramitdas/CookiePyStarter/pull/64) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+3. 💪 Opened PR [#64](https://github.com/mramitdas/CookiePyStarter/pull/64) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+4. ❗ Opened issue [#63](https://github.com/mramitdas/CookiePyStarter/issues/63) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+5. 🎉 Merged PR [#62](https://github.com/mramitdas/CookiePyStarter/pull/62) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+6. 🔒 Closed issue [#61](https://github.com/mramitdas/CookiePyStarter/issues/61) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+7. 💪 Opened PR [#62](https://github.com/mramitdas/CookiePyStarter/pull/62) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+8. ❗ Opened issue [#61](https://github.com/mramitdas/CookiePyStarter/issues/61) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+9. 🔒 Closed issue [#59](https://github.com/mramitdas/CookiePyStarter/issues/59) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+10. 🎉 Merged PR [#60](https://github.com/mramitdas/CookiePyStarter/pull/60) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
 <!--END_SECTION:activity-->
 
 </details>
