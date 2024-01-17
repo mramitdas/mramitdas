@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/mramitdas/QueryHarbour/issues/16) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-2. 🗣 Commented on [#15](https://github.com/mramitdas/QueryHarbour/issues/15#issuecomment-1895573579) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-3. 🔒 Closed issue [#15](https://github.com/mramitdas/QueryHarbour/issues/15) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-4. ❗ Opened issue [#15](https://github.com/mramitdas/QueryHarbour/issues/15) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-5. 🔒 Closed issue [#13](https://github.com/mramitdas/QueryHarbour/issues/13) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-6. 🎉 Merged PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-7. 💪 Opened PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-8. 🎉 Merged PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-9. 💪 Opened PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-10. 🗣 Commented on [#79](https://github.com/mramitdas/CookiePyStarter/issues/79#issuecomment-1895094671) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+1. 🔒 Closed issue [#16](https://github.com/mramitdas/QueryHarbour/issues/16) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+2. 🎉 Merged PR [#17](https://github.com/mramitdas/QueryHarbour/pull/17) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+3. 💪 Opened PR [#17](https://github.com/mramitdas/QueryHarbour/pull/17) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+4. ❗ Opened issue [#16](https://github.com/mramitdas/QueryHarbour/issues/16) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+5. 🗣 Commented on [#15](https://github.com/mramitdas/QueryHarbour/issues/15#issuecomment-1895573579) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+6. 🔒 Closed issue [#15](https://github.com/mramitdas/QueryHarbour/issues/15) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+7. ❗ Opened issue [#15](https://github.com/mramitdas/QueryHarbour/issues/15) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+8. 🔒 Closed issue [#13](https://github.com/mramitdas/QueryHarbour/issues/13) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+9. 🎉 Merged PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+10. 💪 Opened PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
 <!--END_SECTION:activity-->
 
 </details>
