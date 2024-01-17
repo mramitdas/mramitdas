@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-2. 💪 Opened PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-3. 🗣 Commented on [#79](https://github.com/mramitdas/CookiePyStarter/issues/79#issuecomment-1895094671) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-4. 🔒 Closed issue [#79](https://github.com/mramitdas/CookiePyStarter/issues/79) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-5. 🎉 Merged PR [#80](https://github.com/mramitdas/CookiePyStarter/pull/80) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-6. 💪 Opened PR [#80](https://github.com/mramitdas/CookiePyStarter/pull/80) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-7. ❗ Opened issue [#79](https://github.com/mramitdas/CookiePyStarter/issues/79) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-8. ❗ Opened issue [#13](https://github.com/mramitdas/QueryHarbour/issues/13) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-9. 🔒 Closed issue [#4](https://github.com/mramitdas/QueryHarbour/issues/4) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-10. 🎉 Merged PR [#12](https://github.com/mramitdas/QueryHarbour/pull/12) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+1. ❗ Opened issue [#15](https://github.com/mramitdas/QueryHarbour/issues/15) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+2. 🔒 Closed issue [#13](https://github.com/mramitdas/QueryHarbour/issues/13) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+3. 🎉 Merged PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+4. 💪 Opened PR [#14](https://github.com/mramitdas/QueryHarbour/pull/14) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+5. 🎉 Merged PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+6. 💪 Opened PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+7. 🗣 Commented on [#79](https://github.com/mramitdas/CookiePyStarter/issues/79#issuecomment-1895094671) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+8. 🔒 Closed issue [#79](https://github.com/mramitdas/CookiePyStarter/issues/79) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+9. 🎉 Merged PR [#80](https://github.com/mramitdas/CookiePyStarter/pull/80) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+10. 💪 Opened PR [#80](https://github.com/mramitdas/CookiePyStarter/pull/80) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
 <!--END_SECTION:activity-->
 
 </details>
