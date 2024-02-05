@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/mramitdas/QueryHarbour/issues/26) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-2. 🎉 Merged PR [#27](https://github.com/mramitdas/QueryHarbour/pull/27) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-3. 💪 Opened PR [#27](https://github.com/mramitdas/QueryHarbour/pull/27) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-4. ❗ Opened issue [#26](https://github.com/mramitdas/QueryHarbour/issues/26) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-5. 🔒 Closed issue [#24](https://github.com/mramitdas/QueryHarbour/issues/24) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-6. 🎉 Merged PR [#25](https://github.com/mramitdas/QueryHarbour/pull/25) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-7. 💪 Opened PR [#25](https://github.com/mramitdas/QueryHarbour/pull/25) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-8. ❗ Opened issue [#24](https://github.com/mramitdas/QueryHarbour/issues/24) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-9. 🔒 Closed issue [#22](https://github.com/mramitdas/QueryHarbour/issues/22) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
-10. 🎉 Merged PR [#23](https://github.com/mramitdas/QueryHarbour/pull/23) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+1. ❗ Opened issue [#32](https://github.com/mramitdas/QueryHarbour/issues/32) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+2. 🔒 Closed issue [#30](https://github.com/mramitdas/QueryHarbour/issues/30) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+3. 🎉 Merged PR [#31](https://github.com/mramitdas/QueryHarbour/pull/31) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+4. 💪 Opened PR [#31](https://github.com/mramitdas/QueryHarbour/pull/31) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+5. ❗ Opened issue [#30](https://github.com/mramitdas/QueryHarbour/issues/30) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+6. 🔒 Closed issue [#28](https://github.com/mramitdas/QueryHarbour/issues/28) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+7. 🎉 Merged PR [#29](https://github.com/mramitdas/QueryHarbour/pull/29) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+8. 💪 Opened PR [#29](https://github.com/mramitdas/QueryHarbour/pull/29) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+9. ❗ Opened issue [#28](https://github.com/mramitdas/QueryHarbour/issues/28) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
+10. 🔒 Closed issue [#26](https://github.com/mramitdas/QueryHarbour/issues/26) in [mramitdas/QueryHarbour](https://github.com/mramitdas/QueryHarbour)
 <!--END_SECTION:activity-->
 
 </details>
