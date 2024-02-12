@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mramitdas/helpdesk/issues/1) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-2. 🎉 Merged PR [#2](https://github.com/mramitdas/helpdesk/pull/2) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-3. 💪 Opened PR [#2](https://github.com/mramitdas/helpdesk/pull/2) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-4. 🗣 Commented on [#1](https://github.com/mramitdas/helpdesk/issues/1#issuecomment-1938994340) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-5. ❗ Opened issue [#1](https://github.com/mramitdas/helpdesk/issues/1) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-6. 🎉 Merged PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-7. 💪 Opened PR [#81](https://github.com/mramitdas/CookiePyStarter/pull/81) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-8. 🗣 Commented on [#79](https://github.com/mramitdas/CookiePyStarter/issues/79#issuecomment-1895094671) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-9. 🔒 Closed issue [#79](https://github.com/mramitdas/CookiePyStarter/issues/79) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
-10. 🎉 Merged PR [#80](https://github.com/mramitdas/CookiePyStarter/pull/80) in [mramitdas/CookiePyStarter](https://github.com/mramitdas/CookiePyStarter)
+1. 🎉 Merged PR [#12](https://github.com/mramitdas/helpdesk/pull/12) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+2. 🔒 Closed issue [#11](https://github.com/mramitdas/helpdesk/issues/11) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+3. 💪 Opened PR [#12](https://github.com/mramitdas/helpdesk/pull/12) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+4. ❗ Opened issue [#11](https://github.com/mramitdas/helpdesk/issues/11) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+5. 🔒 Closed issue [#9](https://github.com/mramitdas/helpdesk/issues/9) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+6. 🎉 Merged PR [#10](https://github.com/mramitdas/helpdesk/pull/10) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+7. 💪 Opened PR [#10](https://github.com/mramitdas/helpdesk/pull/10) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+8. ❗ Opened issue [#9](https://github.com/mramitdas/helpdesk/issues/9) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+9. 🔒 Closed issue [#7](https://github.com/mramitdas/helpdesk/issues/7) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+10. 🎉 Merged PR [#8](https://github.com/mramitdas/helpdesk/pull/8) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
 <!--END_SECTION:activity-->
 
 </details>
