@@ -174,16 +174,16 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mramitdas/helpdesk/pull/12) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-2. 🔒 Closed issue [#11](https://github.com/mramitdas/helpdesk/issues/11) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-3. 💪 Opened PR [#12](https://github.com/mramitdas/helpdesk/pull/12) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-4. ❗ Opened issue [#11](https://github.com/mramitdas/helpdesk/issues/11) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-5. 🔒 Closed issue [#9](https://github.com/mramitdas/helpdesk/issues/9) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-6. 🎉 Merged PR [#10](https://github.com/mramitdas/helpdesk/pull/10) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-7. 💪 Opened PR [#10](https://github.com/mramitdas/helpdesk/pull/10) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-8. ❗ Opened issue [#9](https://github.com/mramitdas/helpdesk/issues/9) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-9. 🔒 Closed issue [#7](https://github.com/mramitdas/helpdesk/issues/7) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-10. 🎉 Merged PR [#8](https://github.com/mramitdas/helpdesk/pull/8) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+1. ❗ Opened issue [#22](https://github.com/mramitdas/helpdesk/issues/22) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+2. 🔒 Closed issue [#20](https://github.com/mramitdas/helpdesk/issues/20) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+3. 🎉 Merged PR [#21](https://github.com/mramitdas/helpdesk/pull/21) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+4. 💪 Opened PR [#21](https://github.com/mramitdas/helpdesk/pull/21) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+5. ❗ Opened issue [#20](https://github.com/mramitdas/helpdesk/issues/20) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+6. 🔒 Closed issue [#18](https://github.com/mramitdas/helpdesk/issues/18) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+7. 🎉 Merged PR [#19](https://github.com/mramitdas/helpdesk/pull/19) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+8. 💪 Opened PR [#19](https://github.com/mramitdas/helpdesk/pull/19) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+9. ❗ Opened issue [#18](https://github.com/mramitdas/helpdesk/issues/18) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+10. 🗣 Commented on [#17](https://github.com/mramitdas/helpdesk/issues/17#issuecomment-1943431686) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
 <!--END_SECTION:activity-->
 
 </details>
