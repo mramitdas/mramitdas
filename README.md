@@ -174,12 +174,12 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#50](https://github.com/mramitdas/helpdesk/issues/50) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-2. 🎉 Merged PR [#51](https://github.com/mramitdas/helpdesk/pull/51) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-3. 💪 Opened PR [#51](https://github.com/mramitdas/helpdesk/pull/51) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-4. ❗ Opened issue [#50](https://github.com/mramitdas/helpdesk/issues/50) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-5. 🔒 Closed issue [#48](https://github.com/mramitdas/helpdesk/issues/48) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
-6. 🎉 Merged PR [#49](https://github.com/mramitdas/helpdesk/pull/49) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
+1. 🎉 Merged PR [#5](https://github.com/mramitdas/mramitdas/pull/5) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
+2. 🎉 Merged PR [#6](https://github.com/mramitdas/mramitdas/pull/6) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
+3. 🎉 Merged PR [#10](https://github.com/mramitdas/QuickPost/pull/10) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
+4. 🔒 Closed issue [#9](https://github.com/mramitdas/QuickPost/issues/9) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
+5. 💪 Opened PR [#10](https://github.com/mramitdas/QuickPost/pull/10) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
+6. ❗ Opened issue [#9](https://github.com/mramitdas/QuickPost/issues/9) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
 7. 💪 Opened PR [#49](https://github.com/mramitdas/helpdesk/pull/49) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
 8. ❗ Opened issue [#48](https://github.com/mramitdas/helpdesk/issues/48) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
 9. 🔒 Closed issue [#46](https://github.com/mramitdas/helpdesk/issues/46) in [mramitdas/helpdesk](https://github.com/mramitdas/helpdesk)
