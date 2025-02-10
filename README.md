@@ -174,9 +174,9 @@ me.say_hi()
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mramitdas/mramitdas/pull/5) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
-2. 🎉 Merged PR [#6](https://github.com/mramitdas/mramitdas/pull/6) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
-3. 🎉 Merged PR [#10](https://github.com/mramitdas/QuickPost/pull/10) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
+1. 🎉 Merged PR [#7](https://github.com/mramitdas/mramitdas/pull/7) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
+2. 🎉 Merged PR [#5](https://github.com/mramitdas/mramitdas/pull/5) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
+3. 🎉 Merged PR [#6](https://github.com/mramitdas/mramitdas/pull/6) in [mramitdas/mramitdas](https://github.com/mramitdas/mramitdas)
 4. 🔒 Closed issue [#9](https://github.com/mramitdas/QuickPost/issues/9) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
 5. 💪 Opened PR [#10](https://github.com/mramitdas/QuickPost/pull/10) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
 6. ❗ Opened issue [#9](https://github.com/mramitdas/QuickPost/issues/9) in [mramitdas/QuickPost](https://github.com/mramitdas/QuickPost)
