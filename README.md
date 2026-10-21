@@ -72,7 +72,17 @@
 
 ## Featured Projects
 
-<!-- 3–4 project cards -->
+> [!TIP]
+> - 🗂️ Selected work — pinned repos, click any card to open.
+
+| | |
+|---|---|
+| <a href="https://github.com/mramitdas/Telegram_AnonymousChatBot"><b>Telegram_AnonymousChatBot</b></a> · 20★ · Python | <a href="https://github.com/mramitdas/AwesomeBioVault"><b>AwesomeBioVault</b></a> · 3★ · Python |
+| Omegle-style random anonymous chats on Telegram | Web app to create & showcase customizable bios |
+| <a href="https://github.com/mramitdas/chatgpt_api"><b>chatgpt_api</b></a> · 2★ · Python | <a href="https://github.com/mramitdas/RapidNotifyBot"><b>RapidNotifyBot</b></a> · 1★ · Python |
+| GPT-2 powered chat API endpoint | Real-time notification chatbot |
+| <a href="https://github.com/mramitdas/CookiePyStarter"><b>CookiePyStarter</b></a> · 0★ · Shell | |
+| Cookiecutter-generated Python boilerplate | |
 
 ## My Engineering Philosophy
 
