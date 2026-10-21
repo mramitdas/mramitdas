@@ -4,6 +4,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mramitdas">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mramitdas&label=Profile%20views&color=blueviolet&style=flat" alt="mramitdas" /> </p>
 
 ```python
