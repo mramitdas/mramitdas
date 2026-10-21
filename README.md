@@ -17,11 +17,11 @@
 </a>
 <p align="center">
 
-## About Me
+> [!CAUTION]
+> - 🔖 You found me — **Amit Das**, SDE III · 7+ years turning fuzzy ideas into services, schemas, and UIs you can run at 2 a.m. without fear.
 
-I build multi-tenant systems that don’t flinch — Python underneath, React on top,
-Postgres RLS as the boundary that holds.
-7+ years turning fuzzy ideas into services, schemas, and UIs you can run at 2 a.m. without fear.
+> [!NOTE]
+> - 🚙 I build multi-tenant systems that don't flinch — Python underneath, React on top, Postgres RLS as the boundary that holds.
 
 ```python
 #!/usr/bin/env python3
@@ -53,7 +53,8 @@ class SoftwareEngineer:
 print(SoftwareEngineer())
 ```
 
-## Tech Stack
+> [!TIP]
+> - 📗 The stack I reach for daily — hover any icon for the name, click for docs.
 
 | | Stack |
 |---|---|
