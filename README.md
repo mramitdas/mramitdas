@@ -1,25 +1,14 @@
-<!-- ![MasterHead](https://lh3.googleusercontent.com/YGcrPx41r7l7W6dSdXdKIq-Q1wc8NIEGTa8JBVMa9EIoTmP-IOzeagSMU7htVdhbmezEdUOxDPykx4AzcKzoZjskvLp0eWkDVDEb3dKXenfmbEZjO2FbvdQhTF3zOuqzS4Yk6mK5Tw=w2400) -->
-
-<!-- <p style="color: red; font-family: 'Fira Code'; font-weight: 400; font-size: 44px; text-align: center; text-decoration: none;">Amit Das</p> -->
-
-  
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=440&height=45&lines=Full+Stack+Developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learining+new+things" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=440&height=45&lines=Full+Stack+Developer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/mramitdas/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mramitdas&label=Profile%20views&color=blueviolet&style=flat" alt="mramitdas" /> </p>
 
 ```python
 
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 
@@ -27,7 +16,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Amit Das"
-        self.pronouns: ["He", "Him"]
+        self.pronouns = ["He", "Him"]
         self.role = "Software Development Engineer II"
         self.language_spoken = ["en_US", "hi_IN"]
         self.askMeAbout = ["python", "framework", "database", "cloud", "server", "cli_tools", "vcs", "web", "design_tools"]
@@ -112,15 +101,15 @@ me.say_hi()
     <a href="#"><img  alt="Oracle"  src ="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
     <a href="#"><img  alt="MySQL"  src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img  alt="SQLite"  src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img  alt="Firebase"  src ="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-    <a href="#"><img  alt="Redis"  src =https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white></a>
-    <a href="#"><img  alt="Aws" src="https://img.shields.io/badge/Aws-232F3E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img  alt="Firebase"  src ="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"></a>
+    <a href="#"><img  alt="Redis"  src ="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+    <a href="#"><img  alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logoColor=white"></a>
     <a href="#"><img  alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img  alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
     <a href="#"><img  alt="Render"  src="https://img.shields.io/badge/Render-00979D.svg?style=for-the-badge&logo=render&logoColor=white"></a>
     <a href="#"><img  alt="Repl.it"  src="https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=Replit&logoColor=white"></a>
     <a href="#"><img  alt="Vercel"  src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="#"><img  alt="Railway"  src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=render&logoColor=white"></a>
+    <a href="#"><img  alt="Railway"  src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white"></a>
     <a href="#"><img  alt="Notion"  src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
   </p>
 
