@@ -1,0 +1,42 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate snake
+        run: |
+          npm install --no-save generate-snake-animation@3.5.0
+          node node_modules/generate-snake-animation/cli.js \
+            --github_user "${{ github.repository_owner }}" \
+            --github_token "${{ secrets.GITHUB_TOKEN }}" \
+            --output "output/github-snake.svg?color_snake=F8D866&color_dots=1F222E,2A1520,6B2840,B33A5E,F75C7E&color_background=transparent"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake.svg
+          git diff --staged --quiet || git commit -m "chore: refresh contribution snake"
+          git push
