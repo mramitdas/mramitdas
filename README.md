@@ -1,51 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,35:1F222E,100:0B0C10&height=160&section=header&text=Amit+Das&fontSize=40&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software+Development+Engineer+III&descSize=15&descAlignY=58&descAlign=50&descColor=C9CDD6" alt="header" />
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&height=40&lines=Full-stack+systems+%C2%B7+Python+at+the+core;Multi-tenant+architecture+%C2%B7+FastAPI+%2B+Next.js;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=480&height=45&lines=Software+Development+Engineer+III;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mramitdas">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023" height="28"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mramitdas&label=signals&color=7DF9FF&style=flat-square&labelColor=1F222E" alt="Profile views" height="28"/>
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
-<p align="center">
-  <b style="color:#F5F5F5">Amit Das</b> · SDE&nbsp;III · ships multi-tenant products end-to-end<br/>
-  <sub>Python at the core, React on the surface, Postgres under everything.</sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,django,flask,fastapi,redis,docker,aws,vercel,git,github,figma,ps,ai,linux,bash,html,css,postgres,mongo,firebase,c,cpp,csharp,android,npm,pytest,vim&theme=dark" alt="Core stack" />
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mramitdas&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&bg_color=1F222E&title_color=F75C7E&icon_color=F8D866&text_color=C9CDD6&ring_color=F75C7E&hide=issues,contribs&rank_icon=github" width="100%" alt="GitHub stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramitdas&layout=compact&langs_count=8&hide_border=true&bg_color=1F222E&title_color=F75C7E&text_color=C9CDD6&hide=Jupyter%20Notebook,Roff" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mramitdas&hide_border=true&background=1F222E&ring=F75C7E&fire=F75C7E&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=F75C7E&sideLabels=C9CDD6&dates=8A8F98&border=1F222E" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="./output/github-snake.svg" alt="Contribution snake" />
-</p>
-
-<details open>
-  <summary><h2>🧠 Signature</h2></summary>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mramitdas&label=Profile%20views&color=blueviolet&style=flat" alt="mramitdas" /> </p>
 
 ```python
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -61,13 +28,14 @@ class SoftwareEngineer:
         self.technology = {
             "language": ["Python", "TypeScript", "JavaScript", "Node.js", "HTML", "CSS", "C", "C++", "C#", "Android", "LaTeX", "Markdown", "Shell"],
             "framework": ["Django", "Django REST", "FastAPI", "Flask", "React", "React Native", "Bootstrap", "jQuery", "Jinja", "npm", "Sass", "webpack", "NumPy", "Pandas", "SymPy", "OpenCV", "Anaconda"],
-            "database": ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Oracle", "Redis", "Firebase"],
+            "database": ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Redis", "Firebase", "Oracle"],
             "web_server": ["Nginx", "Gunicorn"],
             "cloud": ["AWS", "Heroku", "Railway", "Vercel", "Render", "Replit", "GitHub Pages", "Notion"],
             "containerization": ["Docker"],
             "cli_tools": ["Vim", "Nano"],
             "others": ["SSH", "LocalStack", "Regex", "Pytest", "GitHub Actions", "JWT", "Material Design", "Arduino", "WordPress"],
             "vcs": ["Git", "Mercurial"],
+            "web": ["HTML", "CSS"],
             "design_tools": ["Figma", "Photoshop", "Illustrator", "After Effects", "Adobe XD", "Canva"],
             "agile": ["Scrum", "Trello", "Jira"]
         }
@@ -78,22 +46,11 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
 ```
 
-</details>
-
-<details>
-  <summary><h2>📡 Now</h2></summary>
-
-- 🔭 Building **Forge** — multi-tenant gym ERP (FastAPI · Next.js 15 · Postgres RLS · transactional outbox)
-- 🧊 Platform admin console frozen for v1; deep in row-level security and staff role graphs
-- 🌱 Leveling up multi-tenant isolation patterns and async SQLAlchemy
-- ⚡ Previously: QuickPost, helpdesk — full-stack product surfaces
-
-</details>
-
-<details open>
-  <summary><h2>🛠️ Full tool inventory</h2></summary>
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -187,14 +144,29 @@ me.say_hi()
 
 </details>
 
-<details>
-  <summary><h2>🏷️ Holopin</h2></summary>
+<details> 
+  <summary><h2>📊 GitHub Stats and Activity</h2></summary>
 
-  <p><a href="https://holopin.io/@mramitdas"><img src="https://holopin.me/mramitdas" alt="mramitdas Holopin board"></a></p>
-</details>
+  <h3>🔥 Streak Stats</h3>
 
-<details>
-  <summary><h2>⚡ Recent activity</h2></summary>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+      <img title="🔥 Get streak stats for your profile at streak-stats.demolab.com" alt="mramitdas streak" src="https://streak-stats.demolab.com/?user=mramitdas&theme=monokai-metallian&hide_border=true"/>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amit Das GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mramitdas&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amit Das Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mramitdas&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Amit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mramitdas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
@@ -212,4 +184,9 @@ me.say_hi()
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:F75C7E&height=80&section=footer" alt="" />
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@mramitdas"><img src="https://holopin.me/mramitdas" alt="mramitdas Holopin board"></a></p>
+</details>
