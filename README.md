@@ -70,20 +70,6 @@
 | **Tooling & VCS** | <a href="https://www.npmjs.com" title="npm"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm"></a> <a href="https://yarnpkg.com" title="Yarn"><img src="https://skillicons.dev/icons?i=yarn&theme=dark" alt="Yarn"></a> <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions"></a> <a href="https://www.vim.org" title="Vim"><img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim"></a> <a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"></a> <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium"></a> <a href="https://regex101.com" title="Regex"><img src="https://skillicons.dev/icons?i=regex&theme=dark" alt="Regex"></a> <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"></a> <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a> <a href="https://gitlab.com" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab"></a> <a href="https://bitbucket.org" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" alt="Bitbucket"></a> |
 | **Design & Misc** | <a href="https://www.figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"></a> <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop"></a> <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Illustrator"></a> <a href="https://www.adobe.com/products/aftereffects.html" title="After Effects"><img src="https://skillicons.dev/icons?i=ae&theme=dark" alt="After Effects"></a> <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="https://skillicons.dev/icons?i=xd&theme=dark" alt="Adobe XD"></a> <a href="https://www.arduino.cc" title="Arduino"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"></a> <a href="https://wordpress.org" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress"></a> <a href="https://codepen.io" title="CodePen"><img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="CodePen"></a> <a href="https://obsidian.md" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian&theme=dark" alt="Obsidian"></a> <a href="https://stackoverflow.com" title="Stack Overflow"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stack Overflow"></a> |
 
-## Featured Projects
-
-> [!TIP]
-> - 🗂️ Selected work — pinned repos, click any card to open.
-
-| | |
-|---|---|
-| <a href="https://github.com/mramitdas/Telegram_AnonymousChatBot"><b>Telegram_AnonymousChatBot</b></a> · 20★ · Python | <a href="https://github.com/mramitdas/AwesomeBioVault"><b>AwesomeBioVault</b></a> · 3★ · Python |
-| Omegle-style random anonymous chats on Telegram | Web app to create & showcase customizable bios |
-| <a href="https://github.com/mramitdas/chatgpt_api"><b>chatgpt_api</b></a> · 2★ · Python | <a href="https://github.com/mramitdas/RapidNotifyBot"><b>RapidNotifyBot</b></a> · 1★ · Python |
-| GPT-2 powered chat API endpoint | Real-time notification chatbot |
-| <a href="https://github.com/mramitdas/CookiePyStarter"><b>CookiePyStarter</b></a> · 0★ · Shell | |
-| Cookiecutter-generated Python boilerplate | |
-
 ## My Engineering Philosophy
 
 <!-- 3–4 principles -->
