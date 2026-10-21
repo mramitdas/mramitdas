@@ -72,7 +72,17 @@
 
 ## My Engineering Philosophy
 
-<!-- 3–4 principles -->
+> [!NOTE]
+> - 🧱 **Build systems, not scripts** — every solution should compose, scale, and survive handoff to future-you.
+
+> [!TIP]
+> - 🔍 **Debug root cause, not symptoms** — a stack trace is a clue, not an answer.
+
+> [!IMPORTANT]
+> - 📐 **Schemas are contracts** — design the data model first; the API follows.
+
+> [!WARNING]
+> - 🚀 **Ship small, ship often** — big-bang releases are how outages get born.
 
 ## GitHub Dashboard
 
