@@ -50,19 +50,19 @@ print(SoftwareEngineer())
 
 | | Stack |
 |---|---|
-| **Core** | <img src="https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,typescript,tailwind,postgresql,redis,docker,aws,git&theme=dark" height="40" alt="Core stack" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,cs&theme=dark" height="40" alt="Languages" /> |
-| **Markup & Scripting** | <img src="https://skillicons.dev/icons?i=html,css,markdown,bash,latex&theme=dark" height="40" alt="Markup" /> |
-| **Platforms** | <img src="https://skillicons.dev/icons?i=nodejs,androidstudio&theme=dark" height="40" alt="Platforms" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" height="40" alt="Backend" /> · DRF · Jinja · Gunicorn |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,jquery,sass,webpack,mui&theme=dark" height="40" alt="Frontend" /> · React Native |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=opencv,anaconda&theme=dark" height="40" alt="Data" /> · NumPy · Pandas · SymPy |
-| **Tooling & CI** | <img src="https://skillicons.dev/icons?i=npm,githubactions,vim&theme=dark" height="40" alt="Tooling" /> · Pytest · JWT |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis,firebase&theme=dark" height="40" alt="Databases" /> · Oracle |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,heroku,vercel,replit,notion&theme=dark" height="40" alt="Cloud" /> · Railway · Render · GitHub Pages |
-| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&theme=dark" height="40" alt="VCS" /> · Mercurial |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd&theme=dark" height="40" alt="Design" /> · Adobe · Canva · Dribbble |
-| **Other** | <img src="https://skillicons.dev/icons?i=arduino,wordpress&theme=dark" height="40" alt="Other" /> |
+| **Core** | <img src="https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,typescript,tailwind,postgresql,redis,docker,aws,git&theme=dark" alt="Core stack" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,cs&theme=dark" alt="Languages" /> |
+| **Markup & Scripting** | <img src="https://skillicons.dev/icons?i=html,css,markdown,bash,latex&theme=dark" alt="Markup" /> |
+| **Platforms** | <img src="https://skillicons.dev/icons?i=nodejs,androidstudio&theme=dark" alt="Platforms" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" alt="Backend" /> · DRF · Jinja · Gunicorn |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,jquery,sass,webpack,mui&theme=dark" alt="Frontend" /> · React Native |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=opencv,anaconda&theme=dark" alt="Data" /> · NumPy · Pandas · SymPy |
+| **Tooling & CI** | <img src="https://skillicons.dev/icons?i=npm,githubactions,vim&theme=dark" alt="Tooling" /> · Pytest · JWT |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis,firebase&theme=dark" alt="Databases" /> · Oracle |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,heroku,vercel,replit,notion&theme=dark" alt="Cloud" /> · Railway · Render · GitHub Pages |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&theme=dark" alt="VCS" /> · Mercurial |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd&theme=dark" alt="Design" /> · Adobe · Canva · Dribbble |
+| **Other** | <img src="https://skillicons.dev/icons?i=arduino,wordpress&theme=dark" alt="Other" /> |
 
 ## Featured Projects
 
