@@ -1,14 +1,21 @@
-<!-- 1. Profile Header — pending polish -->
+<a href="https://github.com/mramitdas">
+ <img align="center" src="./images/header.png" width="100%">
+</a>
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=480&height=45&lines=Software+Development+Engineer+III;Experienced+UI%2FUX+Designer;7%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</p>
 
+<!--Header-->
+
+<br/>
+<a href="https://github.com/mramitdas">
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</a>
+<a href="https://github.com/mramitdas">
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</a>
+<a href="https://github.com/mramitdas">
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</a>
 <p align="center">
-  <a href="https://github.com/mramitdas">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
 
 ## About Me
 
