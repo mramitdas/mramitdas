@@ -23,35 +23,38 @@
 > [!NOTE]
 > - 🚙 I build multi-tenant systems that don't flinch — Python underneath, React on top, Postgres RLS as the boundary that holds.
 
-```python
-#!/usr/bin/env python3
-"""whoami — but type-safe."""
-
-
-class SoftwareEngineer:
-    name: str = "Amit Das"
-    role: str = "SDE III"
-    building: str = "Forge · multi-tenant gym ERP"
-    core: str = "Python → FastAPI → Postgres RLS → Next.js"
-    edge: str = "Redis · Docker · AWS · TypeScript"
-    ask: str = "system design · schemas · DX · sharp UI"
-
-    def __str__(self) -> str:
-        rows = (
-            ("who", self.name),
-            ("role", self.role),
-            ("now", self.building),
-            ("core", self.core),
-            ("edge", self.edge),
-        )
-        w = max(len(k) for k, _ in rows)
-        rule = "─" * 42
-        body = "\n".join(f"  {k:<{w}}  {v}" for k, v in rows)
-        return f"╭{rule}╮\n{body}\n╰{rule}╯"
-
-
-print(SoftwareEngineer())
-```
+> [!IMPORTANT]
+> - 🧑‍💻 whoami:
+>
+> ```python
+> #!/usr/bin/env python3
+> """whoami — but type-safe."""
+>
+>
+> class SoftwareEngineer:
+>     name: str = "Amit Das"
+>     role: str = "SDE III"
+>     building: str = "Forge · multi-tenant gym ERP"
+>     core: str = "Python → FastAPI → Postgres RLS → Next.js"
+>     edge: str = "Redis · Docker · AWS · TypeScript"
+>     ask: str = "system design · schemas · DX · sharp UI"
+>
+>     def __str__(self) -> str:
+>         rows = (
+>             ("who", self.name),
+>             ("role", self.role),
+>             ("now", self.building),
+>             ("core", self.core),
+>             ("edge", self.edge),
+>         )
+>         w = max(len(k) for k, _ in rows)
+>         rule = "─" * 42
+>         body = "\n".join(f"  {k:<{w}}  {v}" for k, v in rows)
+>         return f"╭{rule}╮\n{body}\n╰{rule}╯"
+>
+>
+> print(SoftwareEngineer())
+> ```
 
 > [!TIP]
 > - 📗 The stack I reach for daily — hover any icon for the name, click for docs.
