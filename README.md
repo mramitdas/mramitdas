@@ -52,7 +52,8 @@ print(SoftwareEngineer())
 |---|---|
 | **Core** | <img src="https://skillicons.dev/icons?i=python,fastapi,django,nextjs,react,typescript,tailwind,postgresql,redis,docker,aws,git&theme=dark" alt="Core stack" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,cs&theme=dark" alt="Languages" /> |
-| **Markup & Scripting** | <img src="https://skillicons.dev/icons?i=html,css,markdown,bash,latex&theme=dark" alt="Markup" /> |
+| **Markup** | <img src="https://skillicons.dev/icons?i=html,markdown,latex,svg&theme=dark" alt="Markup" /> · XHTML · XML · SGML · JSON-LD · TeX · Troff / Groff · PostScript |
+| **Scripting** | <img src="https://skillicons.dev/icons?i=bash,powershell&theme=dark" alt="Scripting" /> · zsh · sh · fish |
 | **Platforms** | <img src="https://skillicons.dev/icons?i=nodejs,androidstudio&theme=dark" alt="Platforms" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" alt="Backend" /> · DRF · Jinja · Gunicorn |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,jquery,sass,webpack,mui&theme=dark" alt="Frontend" /> · React Native |
