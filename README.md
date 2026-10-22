@@ -101,11 +101,6 @@
   <img src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions"/>
 </p>
 
-<h3 align="center">📊 Contribution Activity</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/mramitdas" alt="mramitdas contribution chart"/>
-</p>
-
 <details>
 <summary><h2>🏷️ Holopin Badges</h2></summary>
 
