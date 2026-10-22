@@ -98,7 +98,7 @@
 
 <h3>🧊 3D Contributions</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions"/>
+  <img src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
 </p>
 
 <details>
