@@ -98,7 +98,15 @@
 
 ## Let's Connect
 
-<!-- GitHub, LinkedIn -->
+> [!TIP]
+> - 📬 Find me here — click any icon.
+
+<p align="center">
+  <a href="mailto:mramitdas99@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40"></a>
+  <a href="https://t.me/amitdas99" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/white" alt="Telegram" height="40"></a>
+  <a href="https://linkedin.com/in/mramitdas" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"></a>
+  <a href="tel:+917011352542" title="+91-70113-52542" style="text-decoration:none"><span style="font-size:34px">📞</span></a>
+</p>
 
 <details>
 <summary>Holopin</summary>
