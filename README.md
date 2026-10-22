@@ -86,13 +86,32 @@
 
 ## GitHub Dashboard
 
-<!-- Stats + top languages + streak -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mramitdas&label=Profile%20views&color=blueviolet&style=flat" alt="mramitdas" />
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amit Das Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mramitdas&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amit Das Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mramitdas&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mramitdas streak" src="https://streak-stats.demolab.com/?user=mramitdas&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+<h3 align="center">🧊 3D Contributions</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/profile-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+</p>
+
+<h3 align="center">📊 Contribution Activity</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/mramitdas" alt="mramitdas contribution chart"/>
+</p>
 
 <details>
-<summary>More</summary>
+<summary><h2>🏷️ Holopin Badges</h2></summary>
 
-<!-- Contribution snake -->
-<!-- Recent activity feed -->
+<p><a href="https://holopin.io/@mramitdas"><img src="https://holopin.me/mramitdas" alt="mramitdas Holopin board"></a></p>
 
 </details>
 
