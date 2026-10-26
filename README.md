@@ -101,6 +101,17 @@
   <img src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
 </p>
 
+<h3>⚡ Recent GitHub Activity</h3>
+<details>
+<summary>More</summary>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 <details>
 <summary><h2>🏷️ Holopin Badges</h2></summary>
 
