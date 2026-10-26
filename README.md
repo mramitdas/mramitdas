@@ -1,5 +1,5 @@
 <a href="https://github.com/mramitdas">
- <img align="center" src="./images/header.png" width="100%">
+ <img align="center" src="https://raw.githubusercontent.com/mramitdas/mramitdas/main/images/header.png" width="100%">
 </a>
 <p align="center">
 
